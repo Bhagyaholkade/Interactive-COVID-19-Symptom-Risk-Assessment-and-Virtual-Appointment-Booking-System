@@ -67,10 +67,6 @@ This interactive platform allows users to:
    streamlit run main.py
    ```
 
-## 📸 Screenshots
-
-> *(Add some screenshots of the dashboard, symptom checker, booking page, and animated background here if available)*
-
 ## 🔐 Login Hint
 
 > 💡 Hint: Think like a doctor 🩺 and patient 👩‍⚕️ trying to log in — check `login.py` for default credentials or hint-based access.
